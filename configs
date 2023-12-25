@@ -1,5 +1,5 @@
-vless://bab272d9-2223-4dfd-b1d0-f5dfcd944bb6@test.xx1.workers.dev:80?encryption=none&security=none&fp=random&type=ws&host=test.xx1.workers.dev&path=%2F%3Fed%3D2048#test.xx1.workers.dev-HTTP-80
-vless://bab272d9-2223-4dfd-b1d0-f5dfcd944bb6@cdn-all.xn--b6gac.eu.org:80?encryption=none&security=none&fp=random&type=ws&host=test.xx1.workers.dev&path=%2F%3Fed%3D2048#test.xx1.workers.dev-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel
-vless://bab272d9-2223-4dfd-b1d0-f5dfcd944bb6@test.xx1.workers.dev:80?encryption=none&security=none&fp=random&type=ws&host=test.xx1.workers.dev&path=%2F%3Fed%3D2048#test.xx1.workers.dev-HTTP-80
-vless://bab272d9-2223-4dfd-b1d0-f5dfcd944bb6@cdn.xn--b6gac.eu.org:80?encryption=none&security=none&fp=random&type=ws&host=test.xx1.workers.dev&path=%2F%3Fed%3D2048#test.xx1.workers.dev-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel
-vless://bab272d9-2223-4dfd-b1d0-f5dfcd944bb6@test.xx1.workers.dev:80?encryption=none&security=none&fp=random&type=ws&host=test.xx1.workers.dev&path=%2F%3Fed%3D2048#test.xx1.workers.dev-HTTP-80
+vless://1234@x1unlimited:443?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D9%87%D8%A7+%D8%B1%D8%A7+%D8%A7%D8%B2+%D8%B3%D8%A7%D8%A8+%D8%AE%D8%A7%D8%B1%D8%AC+%D9%86%DA%A9%D9%86%DB%8C%D8%AF%E2%9D%8C
+vless://c94b0073-3502-4965-812f-5915e2100dc6@z.xx1.workerS.Dev:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=z.xx1.workerS.Dev&fp=randomized&type=ws&sni=z.xx1.workerS.Dev#src+%3Cx1unlimited%3E
+vless://c94b0073-3502-4965-812f-5915e2100dc6@[0:0:0:0:0:ffff:bc72:60dc]:8443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=z.xx1.workers.dev&fp=firefox&type=ws&sni=z.xx1.workers.dev#src+%3Cx1unlimited%3E
+vless://ef482ca0-c041-4c6a-a576-1a66347bac88@skk.moe:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=unlimited.xx1.workers.dev&type=ws#src+%3Cx1unlimited%3E+v6
+vless://ef482ca0-c041-4c6a-a576-1a66347bac88@[0:0:0:0:0:ffff:bc72:60dc]:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=unlimited.xx1.workerS.Dev&type=ws#src+%3Cx1unlimited%3E+v6

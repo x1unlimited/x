@@ -3,4 +3,4 @@ vless://b098335d-7538-4ec7-938e-55800cf867dd@tel-thefullchain.xyz2.wOrKErS.DeV:4
 vless://b098335d-7538-4ec7-938e-55800cf867dd@[0:0:0:0:0:ffff:2d0e:ae0f]:8443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=tel-thefullchain.xyz2.WoRKeRS.dEV&fp=chrome&type=ws&sni=tel-thefullchain.xyz2.WoRKeRS.dEV#src+%3CTheFullChain%3E
 vless://3ad6e7e7-9452-4601-b9e6-150f7162dbe6@thefullchain.xyz2.workers.dev:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=thefullchain.xyz2.workers.dev&type=ws#src+%3CTheFullChain%3E+HTTP
 vless://70d4d6ee-84df-4d2e-a35d-958c466cb69c@[0:0:0:0:0:ffff:bc72:60dc]:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=thefullchain-v6.xyz2.workers.dev&type=ws#src+%3CTheFullChain%3E+v6
-vless://70d4d6ee-84df-4d2e-a35d-958c466cb69c@skk.moe:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=thefullchain-v6.xyz2.workers.dev&type=ws#thefullchain-v6.xyz2.workers.dev
+vless://70d4d6ee-84df-4d2e-a35d-958c466cb69c@skk.moe:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=thefullchain-v6.xyz2.workers.dev&type=ws#src+%3CTheFullChain%3E+v6

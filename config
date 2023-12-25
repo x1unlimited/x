@@ -1,0 +1,5 @@
+vless://bab272d9-2223-4dfd-b1d0-f5dfcd944bb6@test.xx1.workers.dev:80?encryption=none&security=none&fp=random&type=ws&host=test.xx1.workers.dev&path=%2F%3Fed%3D2048#test.xx1.workers.dev-HTTP-80
+vless://bab272d9-2223-4dfd-b1d0-f5dfcd944bb6@cdn-all.xn--b6gac.eu.org:80?encryption=none&security=none&fp=random&type=ws&host=test.xx1.workers.dev&path=%2F%3Fed%3D2048#test.xx1.workers.dev-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel
+vless://bab272d9-2223-4dfd-b1d0-f5dfcd944bb6@test.xx1.workers.dev:80?encryption=none&security=none&fp=random&type=ws&host=test.xx1.workers.dev&path=%2F%3Fed%3D2048#test.xx1.workers.dev-HTTP-80
+vless://bab272d9-2223-4dfd-b1d0-f5dfcd944bb6@cdn.xn--b6gac.eu.org:80?encryption=none&security=none&fp=random&type=ws&host=test.xx1.workers.dev&path=%2F%3Fed%3D2048#test.xx1.workers.dev-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel
+vless://bab272d9-2223-4dfd-b1d0-f5dfcd944bb6@test.xx1.workers.dev:80?encryption=none&security=none&fp=random&type=ws&host=test.xx1.workers.dev&path=%2F%3Fed%3D2048#test.xx1.workers.dev-HTTP-80
